@@ -1,4 +1,4 @@
-//Tarandeep Singh (1024240086)
+
 #include <iostream>
 using namespace std;
 
